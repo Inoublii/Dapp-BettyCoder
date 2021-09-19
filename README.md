@@ -37,6 +37,7 @@ We also used **React** for our front-end since it is robust and it fits very wel
 ### Upcoming Updates!
 
 <br/><br/>
+
 **We are adding Web3 API to monitor the health of our DApp, this is to make sure that we can track the transactions that are made and also to see if any errors occur.
 We are making an app for mobile
 We are expanding our blockchains and we are going to be using other blockchains that accept smart contracts
