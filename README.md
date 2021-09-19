@@ -8,12 +8,20 @@
 [<img src="https://img.shields.io/badge/Truffle-Required-green?logo=">](https://www.npmjs.com/package/truffle)
 [<img src="https://img.shields.io/badge/Yarn-Required-green?logo=Yarn">](https://www.npmjs.com/package/yarn)
 
-## Installation and Running
-this will install all the needed dependencies that are listed in package.json
+## Installation 🛠️
+
+Clone the project using
+```
+git clone https://github.com/Inoublii/Dapp-BettyCoder.git
+```
+Go to the root of your folder and run this command if you have yarn installed and install all the needed dependencies that are listed in package.json
 ```
 yarn install
 ```
-Run project using Node
+
+## Usage ℹ️
+
+Run from root folder
 ```
 node index.js
 ```
