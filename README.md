@@ -4,6 +4,14 @@
 
 ---
 
+# Explaining the concept of DApps and NFTs
+
+A decentralized application is a computer application that runs on a decentralized computing system. DApps have been popularized by distributed ledger technologies such as the Ethereum blockchain, where DApps are often referred to as smart contracts.
+
+<br>
+
+A non-fungible token is a unit of data stored on a digital ledger, called a blockchain, that certifies a digital asset to be unique and therefore not interchangeable. NFTs can be used to represent items such as photos, videos, audio, and other types of digital files.
+
 # Description
 
 We have created this DApp as our final year project, this DApp consists of two parts: the front-end where you can buy your BC(Betty Cod3r) NFT and the other part that prints the NFTs which isn't controlled by us and creates random arts from the input it has, as you can see here it takes a module from each directory and blends them
@@ -23,7 +31,17 @@ We first have to use **Solidity** to make the smart contracts that way we assign
 We also used **React** for our front-end since it is robust and it fits very well with Solidity and **Truffle JS**. It's also very easy to use and scalable.
 **Truffle JS** was used for testing, compiling and migrating the NFT to the blockchain.
 
+
 <br/><br/>
+
+### Upcoming Updates!
+
+<br/><br/>
+**We are adding Web3 API to monitor the health of our DApp, this is to make sure that we can track the transactions that are made and also to see if any errors occur.
+We are making an app for mobile
+We are expanding our blockchains and we are going to be using other blockchains that accept smart contracts
+We'll also start using The InterPlanetary File System which is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.
+**
 
 # Requirements
 
@@ -50,7 +68,6 @@ Run from root folder
 ```
 node index.js
 ```
-<br/><br/>
 <br/><br/>
 
 # Proudely Made By!
