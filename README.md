@@ -1,5 +1,6 @@
 <p align="center"><img src="https://s9.gifyu.com/images/20.0cbffc70.gif" alt="Betty Coder" width="200"/></p>
-<p align="center">Live page: https://bettycoder.art</p>
+<b><p align="center">BUY YOUR NFT BEFORE IT'S TOO LATE
+  <br>https://bettycoder.art</p>
 
 ---
 
