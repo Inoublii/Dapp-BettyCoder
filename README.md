@@ -1,6 +1,5 @@
 <p align="center"><img src="https://s9.gifyu.com/images/20.0cbffc70.gif" alt="Betty Coder" width="200"/></p>
 <p align="center">Live page: https://bettycoder.art</p>
-<br/><br/>
 
 ---
 
@@ -18,14 +17,12 @@ We have created this DApp as our final year project, this DApp consists of two p
 
 <img src="https://i.ibb.co/tPgWCD0/index.png">
 
-<br/><br/>
 
 The NFTs are minted directly through the **Polygon Network** which is a layer 2 blockchain on top of the Ethereum blockchain, it offers faster transaction speeds and very low transaction fees compared to Ethereum.
 <br/><br/>
 
 ### Technologies used and why?
 
-<br/><br/>
 
 We first have to use **Solidity** to make the smart contracts that way we assign the ownership and we make the NFT manageable so we can change ownership and other functions that are included in the smart contract along the road.
 We also used **React** for our front-end since it is robust and it fits very well with Solidity and **Truffle JS**. It's also very easy to use and scalable.
@@ -36,13 +33,10 @@ We also used **React** for our front-end since it is robust and it fits very wel
 
 ### Upcoming Updates!
 
-<br/><br/>
-
 **We are adding Web3 API to monitor the health of our DApp, this is to make sure that we can track the transactions that are made and also to see if any errors occur.
 We are making an app for mobile
 We are expanding our blockchains and we are going to be using other blockchains that accept smart contracts
-We'll also start using The InterPlanetary File System which is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.
-**
+We'll also start using The InterPlanetary File System which is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.**
 
 # Requirements
 
