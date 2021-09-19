@@ -1,6 +1,21 @@
 <p align="center"><img src="https://s9.gifyu.com/images/20.0cbffc70.gif" alt="Betty Coder" width="200"/></p>
 <p align="center">Live page: https://bettycoder.art</p>
+<br/><br/>
+<br/><br/>
+# Description
 
+We have created this DApp as our final year project, this DApp consists of two parts: the front-end where you can buy your BC(Betty Cod3r) NFT and the other part that prints the NFTs which isn't controlled by us and creates random arts from the input it has, as you can see here it takes a module from each directory and blends them
+[<img src="https://i.ibb.co/tPgWCD0/index.png">]
+<br/><br/>
+The NFTs are minted directly through the **Polygon Network** which is a layer 2 blockchain on top of the Ethereum blockchain, it offers faster transaction speeds and very low transaction fees compared to Ethereum.
+<br/><br/>
+<br/><br/>
+### Technologies used and why?
+<br/><br/>
+We first have to use **Solidity** to make the smart contracts that way we assign the ownership and we make the NFT manageable so we can change ownership and other functions that are included in the smart contract along the road.
+We also used **React** for our front-end since it is robust and it fits very well with Solidity and **Truffle JS**. It's also very easy to use and scalable.
+**Truffle JS** was used for testing, compiling and migrating the NFT to the blockchain.
+<br/><br/>
 # Requirements
 [<img src="https://img.shields.io/badge/Solidity-Required-green?logo=Solidity">](https://www.npmjs.com/package/solc)
 [<img src="https://img.shields.io/badge/React-Required-green?logo=React">](https://www.npmjs.com/package/react)
@@ -25,13 +40,12 @@ Run from root folder
 ```
 node index.js
 ```
-
-
-
-
-
-
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 # Proudely Made By!
 <a href="https://github.com/Inoublii/Dapp-BettyCoder/graphs/contributors">
