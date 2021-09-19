@@ -1,6 +1,7 @@
 <p align="center"><img src="https://s9.gifyu.com/images/20.0cbffc70.gif" alt="Betty Coder" width="200"/></p>
 <p align="center">Live page: https://bettycoder.art</p>
 <br/><br/>
+---
 # Description
 We have created this DApp as our final year project, this DApp consists of two parts: the front-end where you can buy your BC(Betty Cod3r) NFT and the other part that prints the NFTs which isn't controlled by us and creates random arts from the input it has, as you can see here it takes a module from each directory and blends them
 <img src="https://i.ibb.co/tPgWCD0/index.png">
