@@ -33,10 +33,13 @@ We also used **React** for our front-end since it is robust and it fits very wel
 
 ### Upcoming Updates!
 
-**We are adding Web3 API to monitor the health of our DApp, this is to make sure that we can track the transactions that are made and also to see if any errors occur.
-We are making an app for mobile
-We are expanding our blockchains and we are going to be using other blockchains that accept smart contracts
-We'll also start using The InterPlanetary File System which is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.**
+**We are adding Web3 API to monitor the health of our DApp, this is to make sure that we can track the transactions that are made and also to see if any errors occur.**
+
+**We are making an app for mobile**
+
+**We are expanding our blockchains and we are going to be using other blockchains that accept smart contracts**
+
+**We'll also start using The InterPlanetary File System which is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.**
 
 # Requirements
 
